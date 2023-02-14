@@ -1,0 +1,24 @@
+Project Needs --
+
+
+ Login Page --->>>
+ 1. Validation messages
+ 2. Regular expression(ADV)
+ 3. Loadar
+ 4. Chaeck multiple click events
+
+ Signup Page --->>>
+ 1. Validation messages
+ 2. Regular expression(ADV)
+ 3. Loadar
+ 4. Chaeck multiple click events
+
+
+ OTP Verification Page --->>>
+ 1. Validation messages
+ 2. Regular expression(ADV)
+ 3. Loadar
+ 4. Chaeck multiple click events
+ 5. Back to Login is missing
+
+     
